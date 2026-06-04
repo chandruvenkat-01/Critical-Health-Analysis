@@ -1,4 +1,4 @@
-# Critical-Health-Analysis
+# Citizen-Health-Analysis
 # 🏥 Citizen Health Data Analysis
 
 ## 📌 Project Overview
